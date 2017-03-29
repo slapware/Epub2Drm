@@ -1,0 +1,7 @@
+<permissions>
+    <display/>
+    <print>
+      <count incrementInterval="604800" initial="10"/>
+      <maxResolution>300</maxResolution>
+    </print>
+  </permissions>
